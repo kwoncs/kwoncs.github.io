@@ -1,10 +1,10 @@
 ### Report
 
-Link: [Project report.](/assets/AOS_C111_Final_Report.pdf). 
+Link: [Project report.](/assets/AOS%20C111%20Final%20Report.pdf). 
 
 ### Code
 
-Link: [Code used for this project.](/assets/report_notebook.ipynb)
+Link: [Code used for this project.](/assets/report%20notebook.ipynb)
 
 ## Data
 
